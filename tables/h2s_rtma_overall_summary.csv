@@ -1,0 +1,17 @@
+metric,value
+total_matched_events,60
+unique_dates,11
+unique_stations,3
+start_datetime_local,2024-09-25 19:00:00
+end_datetime_local,2025-07-08 04:00:00
+mean_h2s_ppb,33.455
+median_h2s_ppb,16.3
+max_h2s_ppb,295.6
+h2s_events_ge_10ppb,60
+orange_h2s_events_ge_30ppb,11
+mean_wind_speed_mph,3.066
+median_wind_speed_mph,2.617
+max_wind_gust_mph,13.287
+mean_temperature_f,58.449
+mean_dewpoint_f,51.912
+mean_visibility_miles,7.643

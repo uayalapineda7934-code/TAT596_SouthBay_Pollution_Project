@@ -1,0 +1,13 @@
+metric,value
+start_date,2023-01-01
+end_date,2026-03-04
+total_daily_records,1159
+missing_discharge_values,0
+mean_discharge_m3s,3.964
+median_discharge_m3s,1.75
+max_discharge_m3s,253.0
+mean_discharge_mgd,90.483
+max_discharge_mgd,5774.599
+high_flow_75th_days,291
+high_flow_90th_days,116
+extreme_flow_95th_days,58

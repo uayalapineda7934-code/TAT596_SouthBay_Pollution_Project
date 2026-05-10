@@ -1,0 +1,5 @@
+flow_category,days,mean_discharge_m3s,median_discharge_m3s,max_discharge_m3s,mean_discharge_mgd,percent_of_days
+Extreme flow,58,43.898,26.1,253.0,1001.956,5.0
+High flow,175,3.571,3.48,5.15,81.512,15.1
+Normal / lower flow,868,1.148,0.93,2.65,26.209,74.89
+Very high flow,58,7.359,6.95,11.0,167.973,5.0

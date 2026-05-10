@@ -1,0 +1,7 @@
+component,source_variable,standardization_method,weight,count,missing,min,median,mean,max,nonzero_cells,percent_nonzero_cells
+h2s_proximity_score,dist_to_nearest_h2s_station_km,"Clipped inverse distance, 0 to 10 km",0.16666666666666666,1963,0,0.0,0.0,0.07076597598814993,0.9590858441102227,329,16.76
+river_proximity_score,dist_to_tijuana_river_km,"Clipped inverse distance, 0 to 10 km",0.16666666666666666,1963,0,0.0,0.0,0.029813120861060343,0.9966158936447043,160,8.15
+impacted_beach_proximity_score,dist_to_nearest_impacted_beach_km,"Clipped inverse distance, 0 to 10 km",0.16666666666666666,1963,0,0.0,0.0,0.12931174860874373,0.9927959631857856,529,26.95
+top_closure_beach_proximity_score,dist_to_nearest_top_closure_beach_km,"Clipped inverse distance, 0 to 10 km",0.16666666666666666,1963,0,0.0,0.0,0.11988414760761822,0.9927959631857856,514,26.18
+beach_closure_intensity_score,nearby_beach_closure_intensity_5km,Robust min-max scaling using 95th percentile cap,0.16666666666666666,1963,0,0.0,0.0,0.07979875571050687,1.0,583,29.7
+h2s_severity_score,nearby_h2s_max_ppb_intensity_5km + nearby_h2s_orange_event_intensity_5km,Average of robust-scaled H2S max ppb and orange-event intensity,0.16666666666666666,1963,0,0.0,0.0,0.05484414939324227,1.0,128,6.52

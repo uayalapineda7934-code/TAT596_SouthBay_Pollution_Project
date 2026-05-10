@@ -1,0 +1,11 @@
+finding_area,result,value,interpretation
+Overall beach activity,Total active advisory record-days,12915,Advisories were the most common beach activity category.
+Overall beach activity,Total active closure record-days,6005,Closure activity was common across the study period.
+Overall beach activity,Total active sewage-related record-days,6034,Sewage-related activity was close to the closure total.
+Overall beach activity,Total active Tijuana River-related record-days,5768,Tijuana River-related activity was a major part of the pattern.
+Rainy vs dry,Closure active record-days on rainy days,25.18% higher,Closures were higher on rainy days than dry days.
+Rainy vs dry,Sewage-related active record-days on rainy days,23.99% higher,Sewage-related activity was higher on rainy days than dry days.
+Rainy vs dry,Tijuana River-related active record-days on rainy days,15.51% higher,Tijuana River-related activity was higher on rainy days than dry days.
+High-flow windows,Closure active record-days during 7-day high-flow window,23.77% higher,The widest high-flow window showed the largest closure increase.
+Spearman correlation,Strongest key environmental association,7-day rainfall total with Active closure record-days: rho = 0.306,Recent rainfall had the clearest association with closure activity.
+Mann-Whitney tests,Main group comparison result,Most key comparisons had p < 0.001,Rainy and high-flow conditions had statistically supported differences in key beach activity categories.

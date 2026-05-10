@@ -1,0 +1,4 @@
+station_id,station_name,station_name_clean,beach_name,beach_name_clean,study_group,impact_level,station_lat,station_lon,active_advisory_record_days,active_closure_record_days,active_posting_record_days,active_bacteria_related_record_days,active_tijuana_river_related_record_days,active_sewage_infrastructure_record_days,active_sewage_related_record_days,closure_intensity_category,category_color
+455,IB-010,IB-010,Border Field State Park,Border Field State Park,South Bay / Tijuana River Impact,2,32.53595,-117.1243,1159,1159,0,1159,1159,0,1159,1000+ days,#b30000
+459,IB-050,IB-050,"Imperial Beach municipal beach, other","Imperial Beach municipal beach, other",South Bay / Tijuana River Impact,2,32.566577296,-117.133205028,1081,1081,0,943,1079,0,1079,1000+ days,#b30000
+461,IB-070,IB-070,Silver Strand State Beach,Silver Strand State Beach,South Bay / Tijuana River Impact,2,32.6358,-117.14317,817,817,0,565,817,0,817,600-999 days,#e34a33

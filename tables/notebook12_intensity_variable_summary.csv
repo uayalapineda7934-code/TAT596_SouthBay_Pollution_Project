@@ -1,0 +1,7 @@
+intensity_variable,count,min,median,mean,max
+nearby_beach_station_count_5km,1963.0,0.0,0.0,3.558329088130413,39.0
+nearby_h2s_station_count_5km,1963.0,0.0,0.0,0.10901681100356597,3.0
+nearby_beach_closure_intensity_5km,1963.0,0.0,0.0,73.77770185283623,2376.103748512699
+nearby_top_closure_beach_intensity_5km,1963.0,0.0,0.0,71.6067969597811,2376.103748512699
+nearby_h2s_max_ppb_intensity_5km,1963.0,0.0,0.0,4.829403619270923,276.29218886227613
+nearby_h2s_orange_event_intensity_5km,1963.0,0.0,0.0,0.13712989768061312,6.2972869104653935

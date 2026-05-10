@@ -1,0 +1,15 @@
+metric,value
+total_records,597
+valid_h2s_records,448
+missing_or_invalid_records,149
+unique_dates,26
+unique_locations,3
+start_datetime,2024-09-12 11:00:00
+end_datetime,2025-08-26 04:00:00
+mean_h2s_ppb,6.884
+median_h2s_ppb,2.95
+max_h2s_ppb,295.6
+elevated_h2s_events_ge_5ppb,129
+orange_h2s_events_ge_30ppb,11
+exceedance_200ppb_events,3
+nighttime_records,322

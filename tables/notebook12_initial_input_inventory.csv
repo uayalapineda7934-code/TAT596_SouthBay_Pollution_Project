@@ -1,0 +1,9 @@
+label,file_name,file_path,exists,file_size_kb,modified_time
+notebook11_beach_station_map_summary,notebook11_beach_station_map_summary.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/tables/notebook11_beach_station_map_summary.csv,True,16.84,2026-05-04 14:13:50
+notebook11_h2s_station_map_summary,notebook11_h2s_station_map_summary.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/tables/notebook11_h2s_station_map_summary.csv,True,0.5,2026-05-04 14:13:50
+notebook11_h2s_station_pattern_summary,notebook11_h2s_station_pattern_summary.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/tables/notebook11_h2s_station_pattern_summary.csv,True,0.43,2026-05-04 15:14:43
+notebook11_community_proximity_monitoring_context_summary,notebook11_community_proximity_monitoring_context_summary.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/tables/notebook11_community_proximity_monitoring_context_summary.csv,True,12.32,2026-05-04 15:25:42
+daily_environmental_analysis_ready,daily_environmental_analysis_ready.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/processed_data/daily_environmental_analysis_ready.csv,True,485.57,2026-05-04 11:07:29
+prism_daily_rainfall_south_bay,prism_daily_rainfall_south_bay.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/processed_data/prism_daily_rainfall_south_bay.csv,True,56.52,2026-05-03 18:57:15
+tijuana_river_daily_flow_2023_2026,tijuana_river_daily_flow_2023_2026.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/processed_data/tijuana_river_daily_flow_2023_2026.csv,True,330.91,2026-05-04 08:30:31
+beach_monitoring_stations_clean,beach_monitoring_stations_clean.csv,/content/drive/MyDrive/STAT596/Project596_datafiles/processed_data/beach_monitoring_stations_clean.csv,True,106.12,2026-05-04 09:46:04

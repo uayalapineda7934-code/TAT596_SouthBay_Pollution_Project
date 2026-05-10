@@ -1,0 +1,16 @@
+Environmental variable,Beach measure,Spearman rho,p-value,Direction,Strength
+Same-day rainfall,Active closure record-days,0.156,0.00000,positive,weak
+Same-day rainfall,Active sewage-related record-days,0.146,0.00000,positive,weak
+Same-day rainfall,Active Tijuana River-related record-days,0.128,0.00001,positive,weak
+1-day lag rainfall,Active closure record-days,0.164,0.00000,positive,weak
+1-day lag rainfall,Active sewage-related record-days,0.152,0.00000,positive,weak
+1-day lag rainfall,Active Tijuana River-related record-days,0.129,0.00001,positive,weak
+3-day rainfall total,Active closure record-days,0.224,0.00000,positive,weak
+3-day rainfall total,Active sewage-related record-days,0.206,0.00000,positive,weak
+3-day rainfall total,Active Tijuana River-related record-days,0.185,0.00000,positive,weak
+7-day rainfall total,Active closure record-days,0.306,0.00000,positive,moderate
+7-day rainfall total,Active sewage-related record-days,0.289,0.00000,positive,weak
+7-day rainfall total,Active Tijuana River-related record-days,0.269,0.00000,positive,weak
+Tijuana River discharge,Active closure record-days,0.25,0.00000,positive,weak
+Tijuana River discharge,Active sewage-related record-days,0.209,0.00000,positive,weak
+Tijuana River discharge,Active Tijuana River-related record-days,0.197,0.00000,positive,weak

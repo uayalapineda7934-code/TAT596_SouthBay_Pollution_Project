@@ -1,0 +1,17 @@
+summary_item,summary_value
+dataset_name,daily_environmental_analysis_ready.csv
+notebook,10_daily_environmental_results.ipynb
+unit_of_analysis,one row per calendar day
+result_language,active record-days
+analysis_type,exploratory daily environmental results
+start_date,2023-01-01
+end_date,2026-03-04
+total_days,1159
+total_rows,1159
+total_columns,77
+duplicate_dates,0
+missing_dates,0
+active_record_day_columns,12
+main_daily_fields_present,17
+main_daily_fields_expected,17
+active_record_day_column_names,"active_advisory_records, active_closure_records, active_posting_records, active_rain_advisory_records, active_bacteria_related_records, active_tijuana_river_related_records, active_sewage_infrastructure_records, active_sewage_related_records, active_enterococcus_records, active_fecal_coliform_records, active_total_coliform_records, active_ecoli_records"

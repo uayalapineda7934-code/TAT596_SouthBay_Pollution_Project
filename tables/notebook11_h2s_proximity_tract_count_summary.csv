@@ -1,0 +1,6 @@
+h2s_proximity_category,number_of_tracts,legend_definition
+0-1 km,4,Tract centroid distance to nearest H2S monitoring station
+1-3 km,20,Tract centroid distance to nearest H2S monitoring station
+3-5 km,15,Tract centroid distance to nearest H2S monitoring station
+5-10 km,37,Tract centroid distance to nearest H2S monitoring station
+10+ km,187,Tract centroid distance to nearest H2S monitoring station

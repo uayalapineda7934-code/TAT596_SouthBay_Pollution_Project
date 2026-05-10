@@ -1,0 +1,2 @@
+dataset,original_san_diego_station_records,removed_unmappable_records,final_clean_station_records,final_columns,unique_station_ids,duplicate_station_ids,unique_beaches_represented,missing_station_lat,missing_station_lon,min_station_lat,max_station_lat,min_station_lon,max_station_lon,station_upper_coordinate_records,beach_midpoint_coordinate_records
+beach_monitoring_stations_clean,287,3,284,34,284,0,74,0,0,32.4191,33.3869,-117.596,-117.044857,275,9

@@ -1,0 +1,5 @@
+wind_speed_category,n_observations,mean_h2s_ppb,median_h2s_ppb,max_h2s_ppb,count_h2s_ge_30,percent_h2s_ge_30
+Calm <2 mph,23,30.83,16.7,233.1,5,21.74
+Light 2-5 mph,28,41.85,17.95,295.6,6,21.43
+Moderate 5-10 mph,9,14.06,13.4,23.4,0,0.0
+Stronger 10+ mph,0,,,,0,

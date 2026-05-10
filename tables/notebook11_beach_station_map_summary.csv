@@ -1,0 +1,135 @@
+station_id,station_name,station_name_clean,beach_name,beach_name_clean,study_group,impact_level,station_lat,station_lon,active_advisory_record_days,active_closure_record_days,active_posting_record_days,active_bacteria_related_record_days,active_tijuana_river_related_record_days,active_sewage_infrastructure_record_days,active_sewage_related_record_days
+88,All_SanDiego_County_Beaches,All_SanDiego_County_Beaches,All_SanDiego_County,All_SanDiego_County,Other San Diego Beaches,1,33.3869,-117.596,195,0,0,0,0,0,0
+319,EH-010,EH-010,"Imperial Beach municipal beach, other","Imperial Beach municipal beach, other",South Bay / Tijuana River Impact,1,32.572665227,-117.133201012,81,0,81,70,11,0,11
+319,EH-010,EH-010,"Imperial Beach municipal beach, other","Imperial Beach municipal beach, other",South Bay / Tijuana River Impact,2,32.572665227,-117.133201012,484,484,0,477,482,0,482
+322,EH-030,EH-030,Imperial Beach pier area,Imperial Beach pier area,South Bay / Tijuana River Impact,1,32.57875,-117.133186,75,0,75,75,0,0,0
+322,EH-030,EH-030,Imperial Beach pier area,Imperial Beach pier area,South Bay / Tijuana River Impact,2,32.57875,-117.133186,480,480,0,475,478,0,478
+325,EH-050,EH-050,Coronado City beaches,Coronado City beaches,South Bay / Tijuana River Impact,1,32.68184,-117.18526,144,0,144,144,0,0,0
+325,EH-050,EH-050,Coronado City beaches,Coronado City beaches,South Bay / Tijuana River Impact,2,32.68184,-117.18526,372,372,0,104,372,0,372
+328,EH-060,EH-060,Coronado north beach,Coronado north beach,South Bay / Tijuana River Impact,1,32.685586,-117.194319,145,0,145,142,3,0,3
+328,EH-060,EH-060,Coronado north beach,Coronado north beach,South Bay / Tijuana River Impact,2,32.685586,-117.194319,353,353,0,180,330,2,332
+330,EH-070,EH-070,San Diego Bay,San Diego Bay,Other San Diego Beaches,1,32.69012298,-117.164403749,383,0,383,383,0,0,0
+330,EH-070,EH-070,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.69012298,-117.164403749,18,18,0,0,0,18,18
+331,EH-080,EH-080,San Diego Bay,San Diego Bay,Other San Diego Beaches,1,32.675214456,-117.16818134,110,0,110,110,0,0,0
+331,EH-080,EH-080,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.675214456,-117.16818134,6,6,0,0,0,6,6
+332,EH-090,EH-090,San Diego Bay,San Diego Bay,South Bay / Tijuana River Impact,1,32.63631,-117.1411,95,0,95,95,0,0,0
+332,EH-090,EH-090,San Diego Bay,San Diego Bay,South Bay / Tijuana River Impact,2,32.63631,-117.1411,3,3,0,0,0,3,3
+335,EH-120,EH-120,San Diego Bay,San Diego Bay,Other San Diego Beaches,1,32.628801978,-117.108093878,82,0,82,82,0,0,0
+335,EH-120,EH-120,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.628801978,-117.108093878,7,7,0,0,0,7,7
+336,EH-130,EH-130,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.651176,-117.105712,21,21,0,0,0,21,21
+339,EH-160,EH-160,Spanish Landing Park,Spanish Landing Park,Other San Diego Beaches,1,32.728338648,-117.20994367,36,0,36,36,0,0,0
+339,EH-160,EH-160,Spanish Landing Park,Spanish Landing Park,Other San Diego Beaches,2,32.728338648,-117.20994367,4,4,0,0,0,4,4
+343,EH-200,EH-200,San Diego Bay,San Diego Bay,Other San Diego Beaches,1,32.714767645,-117.224159725,11,0,11,11,0,0,0
+343,EH-200,EH-200,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.714767645,-117.224159725,4,4,0,0,0,4,4
+346,EH-211,EH-211,San Diego Bay,San Diego Bay,Other San Diego Beaches,1,32.709209,-117.236837,61,0,61,61,0,0,0
+346,EH-211,EH-211,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.709209,-117.236837,3,3,0,0,0,0,0
+351,EH-250,EH-250,Pacific Beach,Pacific Beach,Comparison Beaches,1,32.7945,-117.2562,2,0,2,2,0,0,0
+352,EH-253,EH-253,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.7999829,-117.258732,2,2,0,0,0,2,2
+355,EH-260,EH-260,WindanSea Beach,WindanSea Beach,Other San Diego Beaches,1,32.8263,-117.2795,5,0,5,5,0,0,0
+357,EH-280,EH-280,WindanSea Beach,WindanSea Beach,Other San Diego Beaches,1,32.8294,-117.2805,6,0,6,6,0,0,0
+358,EH-290,EH-290,Marine Street Beach,Marine Street Beach,Other San Diego Beaches,1,32.8341,-117.2815,4,0,4,4,0,4,4
+358,EH-290,EH-290,Marine Street Beach,Marine Street Beach,Other San Diego Beaches,2,32.8341,-117.2815,3,3,0,0,0,3,3
+360,EH-300,EH-300,Whispering Sands  Nicholson Pt.,Whispering Sands  Nicholson Pt.,Other San Diego Beaches,1,32.839387,-117.281998,12,0,12,12,0,0,0
+365,EH-320,EH-320,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,1,32.8556,-117.2581,9,0,9,9,0,0,0
+366,EH-330,EH-330,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,1,32.859,-117.256,5,0,5,5,0,0,0
+367,EH-340,EH-340,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,2,32.863,-117.2547,2,2,0,0,0,2,2
+373,EH-360,EH-360,Powerhouse Park 15th Street,Powerhouse Park 15th Street,Other San Diego Beaches,1,32.96,-117.268555777,13,0,13,13,0,0,0
+375,EH-380,EH-380,San Dieguito River Beach,San Dieguito River Beach,Other San Diego Beaches,1,32.9753,-117.270605452,153,0,153,153,0,0,0
+380,EH-410,EH-410,Swami's Park,Swami's Park,Other San Diego Beaches,1,33.0344,-117.2931,16,0,16,16,0,0,0
+381,EH-420,EH-420,Moonlight Beach,Moonlight Beach,Other San Diego Beaches,1,33.0481,-117.2989,5,0,5,5,0,0,0
+384,EH-440,EH-440,South Carlsbad State Beach,South Carlsbad State Beach,Other San Diego Beaches,1,33.0866,-117.313433196,34,0,34,34,0,0,0
+384,EH-440,EH-440,South Carlsbad State Beach,South Carlsbad State Beach,Other San Diego Beaches,2,33.0866,-117.313433196,12,12,0,0,0,12,12
+388,EH-460,EH-460,Carlsbad State Beach,Carlsbad State Beach,Other San Diego Beaches,1,33.1454,-117.3451,58,0,58,58,0,0,0
+394,EH-480,EH-480,Carlsbad municipal beach,Carlsbad municipal beach,Other San Diego Beaches,1,33.1644,-117.3591,62,0,62,62,0,0,0
+398,EH-510,EH-510,USMC Camp Pendleton,USMC Camp Pendleton,Other San Diego Beaches,1,33.3805,-117.5785,56,0,56,56,0,0,0
+399,EH-520,EH-520,San Onofre State Beach,San Onofre State Beach,Other San Diego Beaches,1,33.3855,-117.5952,30,0,30,30,0,0,0
+401,EN-020,EN-020,South Carlsbad State Beach,South Carlsbad State Beach,Other San Diego Beaches,1,33.106306,-117.321583,2,0,2,2,0,0,0
+402,EN-030,EN-030,South Carlsbad State Beach,South Carlsbad State Beach,Other San Diego Beaches,1,33.11572,-117.3255,2,0,2,2,0,0,0
+404,EN-050,EN-050,South Carlsbad State Beach,South Carlsbad State Beach,Other San Diego Beaches,1,33.1285,-117.333806,6,0,6,6,0,0,0
+409,FM-010,FM-010,"Dog Beach, O.B.","Dog Beach, O.B.",Other San Diego Beaches,1,32.7561,-117.253576204,622,0,622,622,0,0,0
+409,FM-010,FM-010,"Dog Beach, O.B.","Dog Beach, O.B.",Other San Diego Beaches,2,32.7561,-117.253576204,7,7,0,0,0,7,7
+410,FM-020,FM-020,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.7961,-117.2573,2,2,0,0,0,2,2
+411,FM-030,FM-030,Tourmaline Surfing Park,Tourmaline Surfing Park,Comparison Beaches,1,32.805,-117.2628,192,0,192,192,0,0,0
+413,FM-050,FM-050,WindanSea Beach,WindanSea Beach,Other San Diego Beaches,1,32.8299,-117.2807,3,0,3,3,0,0,0
+415,FM-070,FM-070,La Jolla Cove,La Jolla Cove,Comparison Beaches,1,32.85045,-117.2727,604,0,604,604,0,0,0
+416,FM-080,FM-080,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,1,32.8548,-117.2598,169,0,169,169,0,0,0
+418,FM-100,FM-100,Torrey Pines State Beach,Torrey Pines State Beach,Other San Diego Beaches,1,32.9345,-117.261955166,78,0,78,78,0,0,0
+455,IB-010,IB-010,Border Field State Park,Border Field State Park,South Bay / Tijuana River Impact,2,32.53595,-117.1243,1159,1159,0,1159,1159,0,1159
+459,IB-050,IB-050,"Imperial Beach municipal beach, other","Imperial Beach municipal beach, other",South Bay / Tijuana River Impact,1,32.566577296,-117.133205028,69,0,69,69,0,0,0
+459,IB-050,IB-050,"Imperial Beach municipal beach, other","Imperial Beach municipal beach, other",South Bay / Tijuana River Impact,2,32.566577296,-117.133205028,1081,1081,0,943,1079,0,1079
+460,IB-060,IB-060,north Imperial Beach,north Imperial Beach,South Bay / Tijuana River Impact,1,32.585678574,-117.133049366,77,0,77,77,0,0,0
+460,IB-060,IB-060,north Imperial Beach,north Imperial Beach,South Bay / Tijuana River Impact,2,32.585678574,-117.133049366,473,473,0,468,473,0,473
+461,IB-070,IB-070,Silver Strand State Beach,Silver Strand State Beach,South Bay / Tijuana River Impact,1,32.6358,-117.14317,226,0,226,226,0,0,0
+461,IB-070,IB-070,Silver Strand State Beach,Silver Strand State Beach,South Bay / Tijuana River Impact,2,32.6358,-117.14317,817,817,0,565,817,0,817
+462,IB-080,IB-080,Coronado City beaches,Coronado City beaches,South Bay / Tijuana River Impact,1,32.6775,-117.17727,22,0,22,16,6,0,6
+462,IB-080,IB-080,Coronado City beaches,Coronado City beaches,South Bay / Tijuana River Impact,2,32.6775,-117.17727,103,103,0,49,103,0,103
+481,MB-015,MB-015,Mission Bay,Mission Bay,Comparison Beaches,1,32.777266,-117.216636,37,0,37,37,0,0,0
+481,MB-015,MB-015,Mission Bay,Mission Bay,Comparison Beaches,2,32.777266,-117.216636,2,2,0,0,0,2,2
+484,MB-031,MB-031,Mission Bay,Mission Bay,Comparison Beaches,2,32.7713,-117.2098,4,4,0,0,0,4,4
+486,MB-041,MB-041,Tecolote Shores,Tecolote Shores,Other San Diego Beaches,1,32.7732,-117.21,190,0,190,190,0,0,0
+486,MB-041,MB-041,Tecolote Shores,Tecolote Shores,Other San Diego Beaches,2,32.7732,-117.21,6,6,0,0,0,6,6
+490,MB-053,MB-053,"Mission Bay, Leisure Lagoon","Mission Bay, Leisure Lagoon",Comparison Beaches,1,32.784102,-117.209331,137,0,137,137,0,0,0
+494,MB-070,MB-070,"Mission Bay, De Anza Cove","Mission Bay, De Anza Cove",Comparison Beaches,1,32.7969,-117.2119,101,0,101,101,0,0,0
+496,MB-080,MB-080,"Mission Bay, Campland On The Bay","Mission Bay, Campland On The Bay",Comparison Beaches,1,32.7949,-117.2213,248,0,248,248,0,0,0
+496,MB-080,MB-080,"Mission Bay, Campland On The Bay","Mission Bay, Campland On The Bay",Comparison Beaches,2,32.7949,-117.2213,3,3,0,3,0,0,0
+497,MB-085,MB-085,Mission Bay,Mission Bay,Comparison Beaches,1,32.78847,-117.217833,200,0,200,200,0,0,0
+500,MB-100,MB-100,Mission Bay,Mission Bay,Comparison Beaches,1,32.7823,-117.2325,109,0,109,109,0,0,0
+506,MB-120,MB-120,"Mission Bay, Fanuel Park","Mission Bay, Fanuel Park",Comparison Beaches,1,32.7908,-117.2443,143,0,143,143,0,0,0
+509,MB-131,MB-131,"Mission Bay, Sail Bay","Mission Bay, Sail Bay",Comparison Beaches,1,32.7832,-117.251,31,0,31,31,0,0,0
+518,MB-170,MB-170,"Mission Bay, Mariners Basin","Mission Bay, Mariners Basin",Comparison Beaches,1,32.7692,-117.2489,83,0,83,83,0,0,0
+526,MB-203,MB-203,"Mission Bay, Vacation Isle","Mission Bay, Vacation Isle",Comparison Beaches,1,32.7741,-117.2327,11,0,11,11,0,0,0
+527,MB-223,MB-223,"Mission Bay, Ventura Cove","Mission Bay, Ventura Cove",Comparison Beaches,1,32.77088,-117.24468,79,0,79,79,0,0,0
+554,Northern_SanDiego_County_Beaches,Northern_SanDiego_County_Beaches,north county beaches,north county beaches,Comparison Beaches,1,33.3869,117.596,4,0,0,0,0,0,0
+581,OC-010,OC-010,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,1,33.165614,-117.359991,6,0,6,6,0,0,0
+582,OC-020,OC-020,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,1,33.172928508,-117.366051164,5,0,5,5,0,0,0
+583,OC-022,OC-022,Buccaneer Beach,Buccaneer Beach,Other San Diego Beaches,1,33.1765,-117.3696,35,0,35,35,0,0,0
+583,OC-022,OC-022,Buccaneer Beach,Buccaneer Beach,Other San Diego Beaches,2,33.1765,-117.3696,6,6,0,0,0,6,6
+586,OC-040,OC-040,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,1,33.182386087,-117.374571149,6,0,6,6,0,0,0
+587,OC-050,OC-050,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,1,33.190325855,-117.381868469,2,0,2,2,0,0,0
+587,OC-050,OC-050,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,2,33.190325855,-117.381868469,3,3,0,3,0,0,0
+588,OC-080,OC-080,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,1,33.1937,-117.3843,8,0,8,8,0,0,0
+588,OC-080,OC-080,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,2,33.1937,-117.3843,3,3,0,3,0,0,0
+589,OC-090,OC-090,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,1,33.1966,-117.3869,26,0,26,26,0,0,0
+589,OC-090,OC-090,"Oceanside municipal beach, other","Oceanside municipal beach, other",Other San Diego Beaches,2,33.1966,-117.3869,3,3,0,3,0,0,0
+590,OC-100,OC-100,Harbor Beach,Harbor Beach,Other San Diego Beaches,1,33.201559515,-117.392202744,261,0,261,261,0,0,0
+591,OC-110,OC-110,Harbor Beach,Harbor Beach,Other San Diego Beaches,1,33.2044,-117.3941,29,0,29,29,0,0,0
+639,PL-050,PL-050,non-accessible or restricted access shoreline on Pt. Loma,non-accessible or restricted access shoreline on Pt. Loma,Other San Diego Beaches,1,32.680475616,-117.2488,2,0,2,2,0,0,0
+639,PL-050,PL-050,non-accessible or restricted access shoreline on Pt. Loma,non-accessible or restricted access shoreline on Pt. Loma,Other San Diego Beaches,2,32.680475616,-117.2488,3,3,0,0,0,3,3
+641,PL-070,PL-070,Sunset Cliffs Park,Sunset Cliffs Park,Other San Diego Beaches,1,32.719325627,-117.256944364,4,0,4,4,0,0,0
+643,PL-090,PL-090,Ocean Beach,Ocean Beach,Comparison Beaches,1,32.746736106,-117.254942461,2,0,2,2,0,0,0
+644,PL-100,PL-100,Ocean Beach,Ocean Beach,Comparison Beaches,1,32.7491121,-117.253271417,4,0,4,4,0,0,0
+645,PL-110,PL-110,Ocean Beach,Ocean Beach,Comparison Beaches,1,32.753911912,-117.25301431,5,0,5,5,0,0,0
+707,SE-050,SE-050,Cardiff State Beach,Cardiff State Beach,Other San Diego Beaches,1,33.0118911,-117.2803,47,0,47,47,0,47,47
+708,SE-060,SE-060,Cardiff State Beach,Cardiff State Beach,Other San Diego Beaches,1,33.0157,-117.281912465,167,0,167,166,0,0,0
+779,MB-205,MB-205,"Mission Bay, Vacation Isle","Mission Bay, Vacation Isle",Comparison Beaches,1,32.77605,-117.2382,424,0,424,424,0,0,0
+815,SI-010,SI-010,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,1,32.86353,-117.25508,5,0,5,5,0,0,0
+815,SI-010,SI-010,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,2,32.86353,-117.25508,2,2,0,0,0,2,2
+816,SI-020,SI-020,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,1,32.86548,-117.2546,2,0,2,2,0,0,0
+817,SI-030,SI-030,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,1,32.86768,-117.25413,6,0,6,6,0,0,0
+911,FM-090,FM-090,Torrey Pines State Beach,Torrey Pines State Beach,Other San Diego Beaches,1,32.8778,-117.2514,2,0,2,2,0,0,0
+1036,IB-069,IB-069,Silver Strand State Beach,Silver Strand State Beach,South Bay / Tijuana River Impact,1,32.631769,-117.141885,75,0,75,75,0,0,0
+1037,IB-068,IB-068,Silver Strand State Beach,Silver Strand State Beach,South Bay / Tijuana River Impact,1,32.626401,-117.139424,66,0,66,66,0,0,0
+1038,IB-079,IB-079,Coronado City beaches,Coronado City beaches,South Bay / Tijuana River Impact,1,32.674066,-117.1723,296,0,296,296,0,0,0
+1038,IB-079,IB-079,Coronado City beaches,Coronado City beaches,South Bay / Tijuana River Impact,2,32.674066,-117.1723,455,455,0,367,455,0,455
+1108,MB-226,MB-226,Mission Bay,Mission Bay,Comparison Beaches,1,32.760746,-117.247827,48,0,48,48,0,0,0
+1117,EH-063,EH-063,Coronado north beach,Coronado north beach,South Bay / Tijuana River Impact,2,32.700209,-117.172758,13,13,0,0,0,13,13
+1121,MB-115,MB-115,Mission Beach,Mission Beach,Comparison Beaches,1,32.75968,-117.254057,36,0,36,36,0,0,0
+1126,EH-530,EH-530,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.695862,-117.1506976,11,11,0,0,0,11,11
+1128,EH-540,EH-540,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.7083867,-117.1702694,7,7,0,0,0,7,7
+1129,EH-545,EH-545,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.7113073,-117.1729191,13,13,0,0,0,13,13
+1133,EH-565,EH-565,San Diego Bay,San Diego Bay,Other San Diego Beaches,2,32.7168445,-117.1734599,5,5,0,0,0,5,5
+1134,MB-047,MB-047,Mission Bay,Mission Bay,Comparison Beaches,2,32.776368,-117.210759,2,2,0,0,0,2,2
+1135,MB-045,MB-045,Mission Bay,Mission Bay,Comparison Beaches,2,32.782904,-117.216885,2,2,0,0,0,2,2
+1136,MB-046,MB-046,Mission Bay,Mission Bay,Comparison Beaches,2,32.784041,-117.211284,2,2,0,0,0,2,2
+1142,EH-253A,EH-253A,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.800137,-117.258937,2,2,0,0,0,2,2
+1143,EH-253B,EH-253B,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.799262,-117.258532,2,2,0,0,0,2,2
+1144,EH-570,EH-570,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.798919,-117.258353,2,2,0,0,0,2,2
+1145,EH-571,EH-571,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.801575,-117.259625,2,2,0,0,0,2,2
+1146,EH-572,EH-572,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.795339,-117.256673,2,2,0,0,0,2,2
+1147,EH-573,EH-573,Pacific Beach,Pacific Beach,Comparison Beaches,2,32.804155,-117.26144,2,2,0,0,0,2,2
+1150,EH-254,EH-254,Pacific Beach,Pacific Beach,Comparison Beaches,1,32.801389,-117.259444,8,0,8,8,0,0,0
+1151,EH-574,EH-574,La Jolla Shores Beach,La Jolla Shores Beach,Comparison Beaches,2,32.85056,-117.26362,2,2,0,0,0,2,2
+1152,EH-575,EH-575,Coronado Cays (NR),Coronado Cays (NR),South Bay / Tijuana River Impact,2,32.628128,-117.136215,2,2,0,0,0,2,2
+1153,EH-576,EH-576,Coronado Cays (NR),Coronado Cays (NR),South Bay / Tijuana River Impact,2,32.630989,-117.135924,2,2,0,0,0,2,2
+1154,MB-043,MB-043,Mission Bay,Mission Bay,Comparison Beaches,2,32.769535,-117.21122,4,4,0,4,0,4,4
+1155,MB-227,MB-227,Mission Bay,Mission Bay,Comparison Beaches,2,32.78845,-117.20963,22,22,0,12,0,22,22

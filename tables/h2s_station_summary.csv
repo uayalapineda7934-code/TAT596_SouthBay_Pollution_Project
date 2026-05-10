@@ -1,0 +1,4 @@
+location_clean,station_name_clean,total_records,valid_h2s_records,missing_or_invalid_records,unique_dates,start_datetime,end_datetime,mean_h2s_ppb,median_h2s_ppb,max_h2s_ppb,elevated_h2s_events,orange_h2s_events,exceedance_200ppb_events,nighttime_records,elevated_h2s_rate,orange_h2s_rate
+NESTOR - BES,Nestor - Berry Elementary School,219,161,58,22,2024-10-12 06:00:00,2025-08-26 02:00:00,11.749068322981367,4.0,295.6,67,7,3,115,0.4161490683229814,0.043478260869565216
+SAN YSIDRO,San Ysidro - Fire Station #29,235,157,78,23,2024-09-12 11:00:00,2025-08-26 02:00:00,4.95859872611465,2.6,45.5,43,4,0,121,0.27388535031847133,0.025477707006369428
+IB CIVIC CTR,Imperial Beach Civic Center,143,130,13,14,2024-12-25 18:00:00,2025-08-26 04:00:00,3.183076923076923,1.7,27.9,19,0,0,86,0.14615384615384616,0.0

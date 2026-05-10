@@ -1,0 +1,6 @@
+measure,column_name,rainy_days,dry_days,rainy_total_active_record_days,dry_total_active_record_days,rainy_mean_active_record_days,dry_mean_active_record_days,rainy_median_active_record_days,dry_median_active_record_days,mean_difference_rainy_minus_dry,percent_increase_on_rainy_days
+Active advisory record-days,active_advisory_records,80,1079,879,12036,10.99,11.15,10.0,11.0,-0.17,-1.5
+Active closure record-days,active_closure_records,80,1079,510,5495,6.38,5.09,6.0,5.0,1.28,25.18
+Active posting record-days,active_posting_records,80,1079,294,6417,3.68,5.95,3.0,5.0,-2.27,-38.21
+Active sewage-related record-days,active_sewage_related_records,80,1079,508,5526,6.35,5.12,6.0,5.0,1.23,23.99
+Active Tijuana River-related record-days,active_tijuana_river_related_records,80,1079,455,5313,5.69,4.92,6.0,5.0,0.76,15.51

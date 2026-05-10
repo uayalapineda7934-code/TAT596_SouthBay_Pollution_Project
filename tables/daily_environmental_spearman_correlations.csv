@@ -1,0 +1,26 @@
+environmental_variable,environmental_column,beach_measure,beach_column,n_observations,spearman_rho,p_value,direction,strength
+Same-day rainfall,rain_mm,Active advisory record-days,active_advisory_records,1159,0.045,0.12172,positive,very weak
+Same-day rainfall,rain_mm,Active closure record-days,active_closure_records,1159,0.156,0.0,positive,weak
+Same-day rainfall,rain_mm,Active posting record-days,active_posting_records,1159,-0.12,4e-05,negative,weak
+Same-day rainfall,rain_mm,Active sewage-related record-days,active_sewage_related_records,1159,0.146,0.0,positive,weak
+Same-day rainfall,rain_mm,Active Tijuana River-related record-days,active_tijuana_river_related_records,1159,0.128,1e-05,positive,weak
+1-day lag rainfall,rain_lag1_mm,Active advisory record-days,active_advisory_records,1158,0.053,0.07226,positive,very weak
+1-day lag rainfall,rain_lag1_mm,Active closure record-days,active_closure_records,1158,0.164,0.0,positive,weak
+1-day lag rainfall,rain_lag1_mm,Active posting record-days,active_posting_records,1158,-0.128,1e-05,negative,weak
+1-day lag rainfall,rain_lag1_mm,Active sewage-related record-days,active_sewage_related_records,1158,0.152,0.0,positive,weak
+1-day lag rainfall,rain_lag1_mm,Active Tijuana River-related record-days,active_tijuana_river_related_records,1158,0.129,1e-05,positive,weak
+3-day rainfall total,rain_3day_mm,Active advisory record-days,active_advisory_records,1159,0.086,0.00342,positive,very weak
+3-day rainfall total,rain_3day_mm,Active closure record-days,active_closure_records,1159,0.224,0.0,positive,weak
+3-day rainfall total,rain_3day_mm,Active posting record-days,active_posting_records,1159,-0.143,0.0,negative,weak
+3-day rainfall total,rain_3day_mm,Active sewage-related record-days,active_sewage_related_records,1159,0.206,0.0,positive,weak
+3-day rainfall total,rain_3day_mm,Active Tijuana River-related record-days,active_tijuana_river_related_records,1159,0.185,0.0,positive,weak
+7-day rainfall total,rain_7day_mm,Active advisory record-days,active_advisory_records,1159,0.104,0.0004,positive,weak
+7-day rainfall total,rain_7day_mm,Active closure record-days,active_closure_records,1159,0.306,0.0,positive,moderate
+7-day rainfall total,rain_7day_mm,Active posting record-days,active_posting_records,1159,-0.174,0.0,negative,weak
+7-day rainfall total,rain_7day_mm,Active sewage-related record-days,active_sewage_related_records,1159,0.289,0.0,positive,weak
+7-day rainfall total,rain_7day_mm,Active Tijuana River-related record-days,active_tijuana_river_related_records,1159,0.269,0.0,positive,weak
+Tijuana River discharge,discharge_m3s,Active advisory record-days,active_advisory_records,1159,-0.022,0.46441,negative,very weak
+Tijuana River discharge,discharge_m3s,Active closure record-days,active_closure_records,1159,0.25,0.0,positive,weak
+Tijuana River discharge,discharge_m3s,Active posting record-days,active_posting_records,1159,-0.242,0.0,negative,weak
+Tijuana River discharge,discharge_m3s,Active sewage-related record-days,active_sewage_related_records,1159,0.209,0.0,positive,weak
+Tijuana River discharge,discharge_m3s,Active Tijuana River-related record-days,active_tijuana_river_related_records,1159,0.197,0.0,positive,weak

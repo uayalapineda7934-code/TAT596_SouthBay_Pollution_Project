@@ -1,0 +1,5 @@
+year,days,mean_discharge_m3s,max_discharge_m3s,high_flow_days,very_high_flow_days,extreme_flow_days
+2023,365,5.208,253.0,125,54,24
+2024,366,4.23,137.0,126,39,17
+2025,365,1.858,85.8,29,16,11
+2026,63,7.418,159.0,11,7,6

@@ -1,0 +1,15 @@
+item,value
+input_sd_tracts_rows,737
+input_south_bay_tracts_rows,263
+input_beach_station_rows,284
+impact_area_station_count,18
+h2s_station_count,3
+output_rows,263
+output_columns,29
+output_crs,EPSG:4326
+missing_geometry,0
+missing_nearest_beach_station,0
+missing_nearest_impact_station,0
+missing_nearest_h2s_station,0
+output_geojson_exists,True
+output_csv_exists,True
